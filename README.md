@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eshan Sandev Nethmina</h1>
+<h1 align="center">Hey 👋, I'm Eshan</h1>
 <h3 align="center">An undergraduate in ICT</h3>
 
 - 🌱 I’m currently learning **Javascript**
