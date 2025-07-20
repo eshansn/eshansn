@@ -6,6 +6,7 @@
 - 📫 How to reach me **eshannethmina51@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<a href="www.linkedin.com/in/eshan-nethmina-322b45300" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="@sandev.03" height="30" width="40" /></a>
 <p align="left">
 <a href="https://fb.com/eshan nethmina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eshan nethmina" height="30" width="40" /></a>
 <a href="https://instagram.com/@sandev.03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@sandev.03" height="30" width="40" /></a>
