@@ -7,9 +7,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/eshan-nethmina-322b45300" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="eshan-nethmina" height="30" width="40" />
+<a href="https://www.linkedin.com/in/eshan-nethmina-322b45300" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+
   </a>
   <a href="https://www.facebook.com/eshan.nethmina" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eshan nethmina" height="30" width="40" />
