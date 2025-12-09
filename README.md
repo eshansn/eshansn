@@ -2,7 +2,7 @@
 <h3 align="center">An undergraduate in ICT</h3>
 
 
-- 📫 How to reach me **eshannethmina51@gmail.com**
+- 📫 How to reach me **eshannethmina@ieee.org**
 
 
 <h3 align="left">Connect with me:</h3>
