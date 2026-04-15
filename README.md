@@ -11,7 +11,7 @@ I enjoy blending design and development to build modern, interactive application
 - 🎓 ICT Undergraduate  
 - 💡 Interested in UI/UX, Frontend Development & Creative Tech  
 - 🚀 Currently exploring modern web technologies and product design  
-- 📫 How to reach me: **eshannethmina@ieee.org**
+- 📫 How to reach me: **eshannethmina@ieee.org || eshannethmina.me**
 
 ---
 
