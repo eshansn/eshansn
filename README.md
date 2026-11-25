@@ -36,7 +36,6 @@
 
 ---
 
-### 💻 Technical Skills
 ### 💻 Tech Stack
 
 **Frontend Development**
