@@ -37,39 +37,49 @@
 ---
 
 ### 💻 Technical Skills
+### 💻 Tech Stack
 
 **Frontend Development**
-- React, TypeScript, JavaScript, Next.js
-- HTML5, CSS3, Tailwind CSS, Bootstrap
-- GSAP, Framer Motion
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap,gsap" />
+</p>
 
 **Backend Development**
-- C#, ASP.NET Core Web API
-- Node.js, REST APIs
-- Entity Framework Core
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express" />
+</p>
 
 **Programming Languages**
-- C#, JavaScript, TypeScript
-- Python, Java, C++, Dart
 
-**Databases**
-- Microsoft SQL Server
-- MySQL, MongoDB, Firebase
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,dart" />
+</p>
+
+**Databases & Backend Services**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+</p>
 
 **Mobile Development**
-- Flutter, Dart
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart" />
+</p>
 
 **UI/UX & Creative Design**
-- Figma, Framer
-- Adobe Photoshop, Adobe Illustrator
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,framer" />
+</p>
 
 **Tools & Technologies**
-- Git & GitHub
-- Docker
-- Visual Studio, VS Code
-- Swagger / OpenAPI
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,visualstudio" />
+</p>
 
 ### 🚀 Areas of Interest
 
